@@ -1,0 +1,336 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (Scripting)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\morit\OneDrive\Desktop\Master\Scripting\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Master/Scripting/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Master/Scripting/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive/Desktop/Master/Scripting/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Master/Scripting/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1705292187" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/Master/Scripting" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (GIS_scripting_04)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\GIS_scripting_04\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://D:/GIS_scripting_04/venv" type="simple" />
+            <root url="file://D:/GIS_scripting_04/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/GIS_scripting_04/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/GIS_scripting_04/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1460737501" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/GIS_scripting_04" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="C:\Python27\ArcGIS10.6\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/ArcGIS10.6/DLLs" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.6/Lib" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.6/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.6" type="simple" />
+            <root url="file://C:/Python27/ArcGIS10.6/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files (x86)/ArcGIS/Desktop10.6/bin" type="simple" />
+            <root url="file://C:/Program Files (x86)/ArcGIS/Desktop10.6/arcpy" type="simple" />
+            <root url="file://C:/Program Files (x86)/ArcGIS/Desktop10.6/ArcToolbox/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/1764415539" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (PyCharmDL)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\morit\OneDrive\Desktop\DeepLearning\PyCharmDL\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/DeepLearning/PyCharmDL/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/DeepLearning/PyCharmDL/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/OneDrive/Desktop/DeepLearning/PyCharmDL/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/DeepLearning/PyCharmDL/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-454695412" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/DeepLearning/PyCharmDL" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (DeepLearning)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="C:\Users\morit\Anaconda3\envs\DeepLearning\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/DeepLearning/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/DeepLearning/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/DeepLearning/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/172415030" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/DeepLearning" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\morit\OneDrive\Desktop\Master_Arbeit\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Master_Arbeit/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Master_Arbeit/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/-1785642559" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (flaskProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\morit\OneDrive\Desktop\flaskProject\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/flaskProject/venv" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/flaskProject/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/-413895743" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/flaskProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\morit\OneDrive\Desktop\test\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Test" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/Test/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/-1199316231" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/pythonProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (123)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Users\morit\OneDrive\Desktop\123\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/OneDrive/Desktop/123/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/-1386758897" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/123" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (Python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="C:\Users\morit\Anaconda3\envs\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/Python/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/Python/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/Python/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/-21871356" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/Master_Arbeit/Python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="C:\Users\morit\Anaconda3\envs\pythonProject\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/pythonProject/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pythonProject/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pythonProject/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/1170152321" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/Master_Arbeit/pythonProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (pythonProject1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.12" />
+      <homePath value="C:\Users\morit\Anaconda3\envs\pythonProject1\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/envs/pythonProject1/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pythonProject1/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/envs/pythonProject1/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.2/python_stubs/1939561676" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/OneDrive/Desktop/pythonProject1" />
+    </jdk>
+  </component>
+</application>
